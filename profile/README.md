@@ -64,8 +64,9 @@ justificar ni modificar se considera uso indebido.
 ## Licencia
 
 El material docente se publica bajo
-[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en) y el código de los
-ejemplos y ejercicios bajo licencia **MIT**. Puedes reutilizarlo en tu docencia citando la fuente.
+[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es) y el código de los
+ejemplos y ejercicios bajo licencia [MIT](https://opensource.org/license/mit). Puedes reutilizarlo
+en tu docencia citando la fuente.
 
 ## Contacto
 
